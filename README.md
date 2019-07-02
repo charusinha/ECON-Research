@@ -1,2 +1,3 @@
 # ECON-Research
-Msterial related to economics
+Material related to economics
+Hi, I am charu.
